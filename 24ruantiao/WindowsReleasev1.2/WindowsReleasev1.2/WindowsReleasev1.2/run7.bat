@@ -1,0 +1,1 @@
+.\PreliminaryJudge.exe -m maps\map7.txt .\Demo\main.exe
